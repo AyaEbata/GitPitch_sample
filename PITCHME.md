@@ -14,7 +14,7 @@ I'm hungry!!!
 
 ## Profile
 
-![image]()
+![image](https://github.com/AyaEbata/GitPitch_sample/blob/master/profile.jpeg)
 
 ---
 
