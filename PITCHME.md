@@ -12,12 +12,6 @@ I'm hungry!!!
 
 ---
 
-## Profile
-
-![image](https://raw.githubusercontent.com/AyaEbata/GitPitch_sample/master/profile.jpeg)
-
----
-
 ## Source Code
 
 ```Java
