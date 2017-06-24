@@ -1,1 +1,0 @@
-# GitPitch_sample
