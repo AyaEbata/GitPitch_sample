@@ -19,14 +19,4 @@ public String hello() {
   return "Hello World!";
 }
 ```
-
-+++
-
-## Source Code
-
-```Java
-public String hello() {
-  return "Hello World!";
-}
-```
 @[2]("Hello World!"を返すよ)
