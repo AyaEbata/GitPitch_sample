@@ -1,5 +1,5 @@
-# GitPitch_sample
+# GitPitch SAMPLE
 
 ---
 
-お腹すいたね！
+#お腹すいたね！
